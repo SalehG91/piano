@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(Piano());
 
-class Pianogit  extends StatelessWidget {
+class Piano extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
