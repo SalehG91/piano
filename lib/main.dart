@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(XylophoneApp());
+void main() => runApp(Piano());
 
-class XylophoneApp extends StatelessWidget {
+class Pianogit  extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
